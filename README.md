@@ -1,2 +1,2 @@
 # Database
-Database cho các app
+This is where the database for my projects is stored
